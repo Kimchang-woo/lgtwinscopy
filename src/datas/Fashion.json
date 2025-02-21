@@ -1,6 +1,6 @@
 [
-    {"id" : 1, "name" : "아노락", "price" : 89000 , "img": "/images/Product/Fashion/anorak.jpg"},
-    {"id" : 2, "name" : "루피 콜라보 유니폼", "price" : 89000 , "img": "/images/Product/Fashion/Loopy.jpg"},
-    {"id" : 3, "name" : "폴로티셔츠", "price" : 32000 , "img": "/images/Product/Fashion/polo.jpg"},
-    {"id" : 4, "name" : "포스트시즌 후드티", "price" : 69000 , "img": "/images/Product/Fashion/postseasonhood.jpg"}
+    {"id" : 1, "name" : "아노락", "price" : 89000 , "img": "images/Product/Fashion/anorak.jpg"},
+    {"id" : 2, "name" : "루피 콜라보 유니폼", "price" : 89000 , "img": "images/Product/Fashion/Loopy.jpg"},
+    {"id" : 3, "name" : "폴로티셔츠", "price" : 32000 , "img": "images/Product/Fashion/polo.jpg"},
+    {"id" : 4, "name" : "포스트시즌 후드티", "price" : 69000 , "img": "images/Product/Fashion/postseasonhood.jpg"}
 ]

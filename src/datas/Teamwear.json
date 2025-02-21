@@ -1,6 +1,6 @@
 [
-    {"id" : 1, "name" : "홈유니폼", "price" : 91000 , "img": "/images/Product/Teamwear/2023homekit.jpg"},
-    {"id" : 2, "name" : "유광점퍼", "price" : 115000 , "img": "/images/Product/Teamwear/glossyjumper.jpg"},
-    {"id" : 3, "name" : "밀리터리유니폼", "price" : 91000 , "img": "/images/Product/Teamwear/militaryhomekit.jpg"},
-    {"id" : 4, "name" : "레트로 어웨이 유니폼", "price" : 61000 , "img": "/images/Product/Teamwear/retroawaykit.jpg"}
+    {"id" : 1, "name" : "홈유니폼", "price" : 91000 , "img": "images/Product/Teamwear/2023homekit.jpg"},
+    {"id" : 2, "name" : "유광점퍼", "price" : 115000 , "img": "images/Product/Teamwear/glossyjumper.jpg"},
+    {"id" : 3, "name" : "밀리터리유니폼", "price" : 91000 , "img": "images/Product/Teamwear/militaryhomekit.jpg"},
+    {"id" : 4, "name" : "레트로 어웨이 유니폼", "price" : 61000 , "img": "images/Product/Teamwear/retroawaykit.jpg"}
 ]

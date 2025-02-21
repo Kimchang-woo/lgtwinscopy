@@ -4,7 +4,7 @@
         "year": "2023, 24",
         "position": "내야수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/2024austin.png",
+        "image": "images/Gg/2024austin.png",
         "id": 1
     },
     {
@@ -12,7 +12,7 @@
         "year": "2022, 23",
         "position": "내야수",
         "bat_throw": "우투좌타",
-        "image": "/images/Gg/2023ohjh.png",
+        "image": "images/Gg/2023ohjh.png",
         "id": 2
     },
     {
@@ -20,7 +20,7 @@
         "year": "2021, 23",
         "position": "외야수",
         "bat_throw": "우투좌타",
-        "image": "/images/Gg/2023hongck.png",
+        "image": "images/Gg/2023hongck.png",
         "id": 3
     },
     {
@@ -28,7 +28,7 @@
         "year": "2008-2010, 15, 20",
         "position": "외야수",
         "bat_throw": "우투좌타",
-        "image": "/images/Gg/2020kimhs.png",
+        "image": "images/Gg/2020kimhs.png",
         "id": 4
     },
     {
@@ -36,7 +36,7 @@
         "year": "2009, 12-13, 17",
         "position": "외야수",
         "bat_throw": "우투좌타",
-        "image": "/images/Gg/2017parkyt.png",
+        "image": "images/Gg/2017parkyt.png",
         "id": 5
     },
     {
@@ -44,7 +44,7 @@
         "year": "1997, 99, 2000-01, 07",
         "position": "외야수",
         "bat_throw": "좌투좌타",
-        "image": "/images/Gg/2013leebk.png",
+        "image": "images/Gg/2013leebk.png",
         "id": 23
     },
     {
@@ -52,7 +52,7 @@
         "year": "2010",
         "position": "포수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/2010chois.png",
+        "image": "images/Gg/2010chois.png",
         "id": 6
     },
     {
@@ -60,7 +60,7 @@
         "year": "2007",
         "position": "외야수",
         "bat_throw": "좌투좌타",
-        "image": "/images/Gg/2007leedh.png",
+        "image": "images/Gg/2007leedh.png",
         "id": 7
     },
     {
@@ -68,7 +68,7 @@
         "year": "2001",
         "position": "외야수",
         "bat_throw": "좌투좌타",
-        "image": "/images/Gg/2001yangjh.png",
+        "image": "images/Gg/2001yangjh.png",
         "id": 8
     },
     {
@@ -76,7 +76,7 @@
         "year": "2001",
         "position": "투수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/2001shinyh.png",
+        "image": "images/Gg/2001shinyh.png",
         "id": 9
     },
     {
@@ -84,7 +84,7 @@
         "year": "1998-99",
         "position": "유격수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1999ryujh.png",
+        "image": "images/Gg/1999ryujh.png",
         "id": 10
     },
     {
@@ -92,7 +92,7 @@
         "year": "1994, 98",
         "position": "외야수",
         "bat_throw": "좌투좌타",
-        "image": "/images/Gg/1998kimjh.png",
+        "image": "images/Gg/1998kimjh.png",
         "id": 11
     },
     {
@@ -100,7 +100,7 @@
         "year": "1990, 93-95, 97",
         "position": "포수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1997kimds.png",
+        "image": "images/Gg/1997kimds.png",
         "id": 12
     },
     {
@@ -108,7 +108,7 @@
         "year": "1995",
         "position": "투수",
         "bat_throw": "좌투좌타",
-        "image": "/images/Gg/1995leesh.png",
+        "image": "images/Gg/1995leesh.png",
         "id": 13
     },
     {
@@ -116,7 +116,7 @@
         "year": "1994",
         "position": "1루수",
         "bat_throw": "좌투좌타",
-        "image": "/images/Gg/1994seoyb.png",
+        "image": "images/Gg/1994seoyb.png",
         "id": 14
     },
     {
@@ -124,7 +124,7 @@
         "year": "1994",
         "position": "2루수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1994parkjh.png",
+        "image": "images/Gg/1994parkjh.png",
         "id": 15
     },
     {
@@ -132,7 +132,7 @@
         "year": "1993-94",
         "position": "3루수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1994handh.png",
+        "image": "images/Gg/1994handh.png",
         "id": 16
     },
     {
@@ -140,7 +140,7 @@
         "year": "1992",
         "position": "3루수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1992songkh.png",
+        "image": "images/Gg/1992songkh.png",
         "id": 17
     },
     {
@@ -148,7 +148,7 @@
         "year": "1990",
         "position": "1루수",
         "bat_throw": "좌투좌타",
-        "image": "/images/Gg/1990kimsh.png",
+        "image": "images/Gg/1990kimsh.png",
         "id": 18
     },
     {
@@ -156,7 +156,7 @@
         "year": "1983-86, 89",
         "position": "유격수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1989kjb.png",
+        "image": "images/Gg/1989kjb.png",
         "id": 19
     },
     {
@@ -164,7 +164,7 @@
         "year": "1984-87",
         "position": "1루수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1987leeke.png",
+        "image": "images/Gg/1987leeke.png",
         "id": 20
     },
     {
@@ -172,7 +172,7 @@
         "year": "1982",
         "position": "포수",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1982kimyw.png",
+        "image": "images/Gg/1982kimyw.png",
         "id": 21
     },
     {
@@ -180,7 +180,7 @@
         "year": "1982",
         "position": "타자",
         "bat_throw": "우투우타",
-        "image": "/images/Gg/1982kimyd.png",
+        "image": "images/Gg/1982kimyd.png",
         "id": 22
     }
 ]
