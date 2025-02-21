@@ -23,7 +23,7 @@ const Rank = () => {
       {
         filteredData.map(item => (
           <div key={item.id} className='inBox'>
-            <img src={item.img} alt={item.name}/>
+            <img src={process.env.PUBLIC_URL +item.img} alt={item.name}/>
           </div>
         ))
       }

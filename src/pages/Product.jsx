@@ -12,7 +12,7 @@ const ProductList = ({data}) => {
     <div className='product conBox'>
       {data.map((item)=> (
         <div key={item.id} className='product-item'>
-          <img src={item.img} alt={item.name} />
+          <img src={process.env.PUBLIC_URL +item.img} alt={item.name} />
           <h3>{item.name}</h3>
           <p>{item.price}원</p>
         </div>

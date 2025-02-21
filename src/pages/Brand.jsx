@@ -11,7 +11,7 @@ const Brand = () => {
           topData.map(item => (
             <div key={item.id} className='inBox'>
               <h2>{item.name}</h2>
-              <img src={item.img} alt={item.name}/>
+              <img src={process.env.PUBLIC_URL + item.img} alt={item.name}/>
             </div>
           ))
        }

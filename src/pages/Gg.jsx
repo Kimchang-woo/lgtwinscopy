@@ -11,7 +11,7 @@ const Gg = () => {
         {
           topData.map(item => (
             <div key={item.id} className='inBox'>
-              <img src={item.image} alt={item.name}/>
+              <img src={process.env.PUBLIC_URL +item.image} alt={item.name}/>
             </div>
           ))
         }

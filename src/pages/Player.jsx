@@ -41,7 +41,7 @@ useEffect(()=>{
           filteredData.map(item => (
             <div key={item.id} className='inBox'>
               <img 
-              src={item.image} 
+              src={process.env.PUBLIC_URL +item.image} 
               alt={item.name} 
               className={animatingItems.has(item.id) ? 'fade-out' : 'fade-in'} />
             </div>
