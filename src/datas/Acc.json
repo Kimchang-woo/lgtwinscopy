@@ -1,6 +1,6 @@
 [
     {"id" : 1, "name" : "안전 헬멧", "price" : 59000 , "img": "/images/Product/Acc/helmet.jpg"},
-    {"id" : 2, "name" : "TWINS 키링", "price" : 19000 , "img": "/images/Product/Acc/keyring.jpg"},
-    {"id" : 3, "name" : "TWINS 머그컵세트", "price" : 22000 , "img": "/images/Product/Acc/mug.jpg"},
-    {"id" : 4, "name" : "TWINS 스티커", "price" : 6000 , "img": "/images/Product/Acc/sticker.jpg"}
+    {"id" : 2, "name" : "TWINS 키링", "price" : 19000 , "img": "images/Product/Acc/keyring.jpg"},
+    {"id" : 3, "name" : "TWINS 머그컵세트", "price" : 22000 , "img": "images/Product/Acc/mug.jpg"},
+    {"id" : 4, "name" : "TWINS 스티커", "price" : 6000 , "img": "images/Product/Acc/sticker.jpg"}
 ]

@@ -51,9 +51,9 @@ const Home = () => {
         let particleCount =50;
 
         const images ={
-            spring:process.env.PUBLIC_URL + '/spring.png' ,
-            summer:process.env.PUBLIC_URL + '/summer.png',
-            autumn:process.env.PUBLIC_URL + '/autumn.png',
+            spring: process.env.PUBLIC_URL + '/spring.png' ,
+            summer: process.env.PUBLIC_URL + '/summer.png',
+            autumn: process.env.PUBLIC_URL + '/autumn.png',
             winter: process.env.PUBLIC_URL +'/winter.png'
         }
 
