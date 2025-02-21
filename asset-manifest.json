@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lgtwinscopy/static/css/main.14aa6715.css",
-    "main.js": "/lgtwinscopy/static/js/main.b6272c03.js",
+    "main.js": "/lgtwinscopy/static/js/main.7ce3477b.js",
     "static/media/home.jpg": "/lgtwinscopy/static/media/home.56055375c5a29aca4605.jpg",
     "static/media/LG Smart SemiBold.woff": "/lgtwinscopy/static/media/LG Smart SemiBold.4112e5483eeac5d2c888.woff",
     "index.html": "/lgtwinscopy/index.html",
     "main.14aa6715.css.map": "/lgtwinscopy/static/css/main.14aa6715.css.map",
-    "main.b6272c03.js.map": "/lgtwinscopy/static/js/main.b6272c03.js.map"
+    "main.7ce3477b.js.map": "/lgtwinscopy/static/js/main.7ce3477b.js.map"
   },
   "entrypoints": [
     "static/css/main.14aa6715.css",
-    "static/js/main.b6272c03.js"
+    "static/js/main.7ce3477b.js"
   ]
 }
