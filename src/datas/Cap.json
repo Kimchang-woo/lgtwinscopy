@@ -1,0 +1,6 @@
+[
+    {"id" : 1, "name" : "TWINS 비니", "price" : 29000 , "img": "/images/Product/Cap/beanie.jpg"},
+    {"id" : 2, "name" : "TWINS 버킷햇", "price" : 39000 , "img": "/images/Product/Cap/hat.jpg"},
+    {"id" : 3, "name" : "루피 콜라보 캡", "price" : 33000 , "img": "/images/Product/Cap/loopy.jpg"},
+    {"id" : 4, "name" : "스프링캠프 캡", "price" : 39000 , "img": "/images/Product/Cap/spring.jpg"}
+]

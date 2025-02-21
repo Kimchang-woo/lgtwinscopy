@@ -1,0 +1,5 @@
+[
+    {"id" : 1, "name" : "앰블럼",  "img": "/images/Brand/emblem.PNG"},
+    {"id" : 2, "name" : "로고", "img": "/images/Brand/logo.PNG"},
+    {"id" : 3, "name" : "마스코트",  "img": "/images/Brand/mascot.PNG"}
+]

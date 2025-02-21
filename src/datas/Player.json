@@ -1,0 +1,499 @@
+[
+    {
+        "name": "김유영",
+        "number": "0",
+        "position": "투수",
+        "image": "/images/Players/00.png",
+        "id": 1
+    },
+    {
+        "name": "이한림",
+        "number": "00",
+        "position": "포수",
+        "image": "/images/Players/000.png",
+        "id": 2
+    },
+    {
+        "name": "임찬규",
+        "number": "1",
+        "position": "투수",
+        "image": "/images/Players/01.png",
+        "id": 3
+    },
+    {
+        "name": "문보경",
+        "number": "2",
+        "position": "내야수",
+        "image": "/images/Players/02.png",
+        "id": 4
+    },
+    {
+        "name": "최원영",
+        "number": "3",
+        "position": "외야수",
+        "image": "/images/Players/03.png",
+        "id": 5
+    },
+    {
+        "name": "신민재",
+        "number": "4",
+        "position": "내야수",
+        "image": "/images/Players/04.png",
+        "id": 6
+    },
+    {
+        "name": "김주성",
+        "number": "5",
+        "position": "내야수",
+        "image": "/images/Players/05.png",
+        "id": 7
+    },
+    {
+        "name": "구본혁",
+        "number": "6",
+        "position": "내야수",
+        "image": "/images/Players/06.png",
+        "id": 8
+    },
+    {
+        "name": "이영빈",
+        "number": "7",
+        "position": "내야수",
+        "image": "/images/Players/07.png",
+        "id": 9
+    },
+    {
+        "name": "문성주",
+        "number": "8",
+        "position": "외야수",
+        "image": "/images/Players/08.png",
+        "id": 10
+    },
+    {
+        "name": "오지환",
+        "number": "10",
+        "position": "내야수",
+        "image": "/images/Players/10.png",
+        "id": 11
+    },
+    {
+        "name": "함덕주",
+        "number": "11",
+        "position": "투수",
+        "image": "/images/Players/11.png",
+        "id": 12
+    },
+    {
+        "name": "김대현",
+        "number": "12",
+        "position": "투수",
+        "image": "/images/Players/12.png",
+        "id": 13
+    },
+    {
+        "name": "송승기",
+        "number": "13",
+        "position": "투수",
+        "image": "/images/Players/13.png",
+        "id": 14
+    },
+    {
+        "name": "송찬의",
+        "number": "14",
+        "position": "외야수",
+        "image": "/images/Players/14.png",
+        "id": 15
+    },
+    {
+        "name": "안익훈",
+        "number": "15",
+        "position": "외야수",
+        "image": "/images/Players/15.png",
+        "id": 16
+    },
+    {
+        "name": "김민수",
+        "number": "16",
+        "position": "내야수",
+        "image": "/images/Players/16.png",
+        "id": 17
+    },
+    {
+        "name": "박해민",
+        "number": "17",
+        "position": "외야수",
+        "image": "/images/Players/17.png",
+        "id": 18
+    },
+    {
+        "name": "정우영",
+        "number": "18",
+        "position": "투수",
+        "image": "/images/Players/18.png",
+        "id": 19
+    },
+    {
+        "name": "우강훈",
+        "number": "20",
+        "position": "투수",
+        "image": "/images/Players/20.png",
+        "id": 20
+    },
+    {
+        "name": "이우찬",
+        "number": "21",
+        "position": "투수",
+        "image": "/images/Players/21.png",
+        "id": 21
+    },
+    {
+        "name": "김현수",
+        "number": "22",
+        "position": "외야수",
+        "image": "/images/Players/22.png",
+        "id": 22
+    },
+    {
+        "name": "오스틴",
+        "number": "23",
+        "position": "내야수",
+        "image": "/images/Players/23.png",
+        "id": 23
+    },
+    {
+        "name": "함창건",
+        "number": "24",
+        "position": "외야수",
+        "image": "/images/Players/24.png",
+        "id": 24
+    },
+    {
+        "name": "배재준",
+        "number": "25",
+        "position": "투수",
+        "image": "/images/Players/25.png",
+        "id": 25
+    },
+    {
+        "name": "이주헌",
+        "number": "26",
+        "position": "포수",
+        "image": "/images/Players/26.png",
+        "id": 26
+    },
+    {
+        "name": "박동원",
+        "number": "27",
+        "position": "포수",
+        "image": "/images/Players/27.png",
+        "id": 27
+    },
+    {
+        "name": "심창민",
+        "number": "28",
+        "position": "투수",
+        "image": "/images/Players/28.png",
+        "id": 28
+    },
+    {
+        "name": "손주영",
+        "number": "29",
+        "position": "투수",
+        "image": "/images/Players/29.png",
+        "id": 29
+    },
+    {
+        "name": "에르난데스",
+        "number": "30",
+        "position": "투수",
+        "image": "/images/Players/30.png",
+        "id": 30
+    },
+    {
+        "name": "이지강",
+        "number": "32",
+        "position": "투수",
+        "image": "/images/Players/32.png",
+        "id": 31
+    },
+    {
+        "name": "성동현",
+        "number": "34",
+        "position": "투수",
+        "image": "/images/Players/34.png",
+        "id": 32
+    },
+    {
+        "name": "김영준",
+        "number": "35",
+        "position": "투수",
+        "image": "/images/Players/35.png",
+        "id": 33
+    },
+    {
+        "name": "김성진",
+        "number": "36",
+        "position": "내야수",
+        "image": "/images/Players/36.png",
+        "id": 34
+    },
+    {
+        "name": "김강률",
+        "number": "37",
+        "position": "투수",
+        "image": "/images/Players/37.png",
+        "id": 35
+    },
+    {
+        "name": "박명근",
+        "number": "39",
+        "position": "투수",
+        "image": "/images/Players/39.png",
+        "id": 36
+    },
+    {
+        "name": "이종준",
+        "number": "40",
+        "position": "투수",
+        "image": "/images/Players/40.png",
+        "id": 37
+    },
+    {
+        "name": "김진성",
+        "number": "42",
+        "position": "투수",
+        "image": "/images/Players/42.png",
+        "id": 38
+    },
+    {
+        "name": "허용주",
+        "number": "43",
+        "position": "투수",
+        "image": "/images/Players/43.png",
+        "id": 39
+    },
+    {
+        "name": "김성우",
+        "number": "44",
+        "position": "포수",
+        "image": "/images/Players/44.png",
+        "id": 40
+    },
+    {
+        "name": "김진수",
+        "number": "45",
+        "position": "투수",
+        "image": "/images/Players/45.png",
+        "id": 41
+    },
+    {
+        "name": "치리노스",
+        "number": "46",
+        "position": "투수",
+        "image": "/images/Players/46.png",
+        "id": 42
+    },
+    {
+        "name": "진우영",
+        "number": "48",
+        "position": "투수",
+        "image": "/images/Players/48.png",
+        "id": 43
+    },
+    {
+        "name": "정지헌",
+        "number": "49",
+        "position": "투수",
+        "image": "/images/Players/49.png",
+        "id": 44
+    },
+    {
+        "name": "장현식",
+        "number": "50",
+        "position": "투수",
+        "image": "/images/Players/50.png",
+        "id": 45
+    },
+    {
+        "name": "홍창기",
+        "number": "51",
+        "position": "외야수",
+        "image": "/images/Players/51.png",
+        "id": 46
+    },
+    {
+        "name": "문정빈",
+        "number": "53",
+        "position": "내야수",
+        "image": "/images/Players/53.png",
+        "id": 47
+    },
+    {
+        "name": "유영찬",
+        "number": "54",
+        "position": "투수",
+        "image": "/images/Players/54.png",
+        "id": 48
+    },
+    {
+        "name": "김범석",
+        "number": "55",
+        "position": "포수",
+        "image": "/images/Players/55.png",
+        "id": 49
+    },
+    {
+        "name": "최재홍",
+        "number": "56",
+        "position": "투수",
+        "image": "/images/Players/56.png",
+        "id": 50
+    },
+    {
+        "name": "김주온",
+        "number": "57",
+        "position": "투수",
+        "image": "/images/Players/57.png",
+        "id": 51
+    },
+    {
+        "name": "허준혁",
+        "number": "58",
+        "position": "투수",
+        "image": "/images/Players/58.png",
+        "id": 52
+    },
+    {
+        "name": "임준형",
+        "number": "59",
+        "position": "투수",
+        "image": "/images/Players/59.png",
+        "id": 53
+    },
+    {
+        "name": "서영준",
+        "number": "60",
+        "position": "외야수",
+        "image": "/images/Players/60.png",
+        "id": 54
+    },
+    {
+        "name": "백승현",
+        "number": "61",
+        "position": "투수",
+        "image": "/images/Players/61.png",
+        "id": 55
+    },
+    {
+        "name": "최승민",
+        "number": "62",
+        "position": "외야수",
+        "image": "/images/Players/62.png",
+        "id": 56
+    },
+    {
+        "name": "추세현",
+        "number": "63",
+        "position": "투수",
+        "image": "/images/Players/63.png",
+        "id": 57
+    },
+    {
+        "name": "박관우",
+        "number": "64",
+        "position": "외야수",
+        "image": "/images/Players/64.png",
+        "id": 58
+    },
+    {
+        "name": "이태훈",
+        "number": "65",
+        "position": "내야수",
+        "image": "/images/Players/65.png",
+        "id": 59
+    },
+    {
+        "name": "김현종",
+        "number": "66",
+        "position": "외야수",
+        "image": "/images/Players/66.png",
+        "id": 60
+    },
+    {
+        "name": "김영우",
+        "number": "67",
+        "position": "투수",
+        "image": "/images/Players/67.png",
+        "id": 61
+    },
+    {
+        "name": "송대현",
+        "number": "71",
+        "position": "내야수",
+        "image": "/images/Players/71.png",
+        "id": 62
+    },
+    {
+        "name": "김대원",
+        "number": "72",
+        "position": "내야수",
+        "image": "/images/Players/72.png",
+        "id": 63
+    },
+    {
+        "name": "최명경",
+        "number": "73",
+        "position": "외야수",
+        "image": "/images/Players/73.png",
+        "id": 64
+    },
+    {
+        "name": "권동혁",
+        "number": "74",
+        "position": "외야수",
+        "image": "/images/Players/74.png",
+        "id": 65
+    },
+    {
+        "name": "이재원",
+        "number": "75",
+        "position": "외야수",
+        "image": "/images/Players/75.png",
+        "id": 66
+    },
+    {
+        "name": "김윤식",
+        "number": "76",
+        "position": "투수",
+        "image": "/images/Players/76.png",
+        "id": 67
+    },
+    {
+        "name": "이민호",
+        "number": "77",
+        "position": "투수",
+        "image": "/images/Players/77.png",
+        "id": 68
+    },
+    {
+        "name": "이정용",
+        "number": "78",
+        "position": "투수",
+        "image": "/images/Players/78.png",
+        "id": 69
+    },
+    {
+        "name": "조원태",
+        "number": "79",
+        "position": "투수",
+        "image": "/images/Players/79.png",
+        "id": 70
+    },
+    {
+        "name": "김주완",
+        "number": "80",
+        "position": "투수",
+        "image": "/images/Players/80.png",
+        "id": 71
+    }
+]

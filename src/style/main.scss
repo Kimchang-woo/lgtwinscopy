@@ -1,0 +1,36 @@
+*{margin: 0; padding: 0; box-sizing: border-box;
+     text-decoration: none; list-style: none;
+     @font-face {
+        font-family: 'LG Smart Light SemiBold';
+        font-style: normal;
+        font-weight: normal;
+        src: url('../font/LG\ Smart\ SemiBold.woff') format('woff');} }
+
+a{color: #333;}
+.nav{height: 120px; width: 100%; position: relative; background-color: #fff;
+    border-bottom: 4px solid #a50034; border-top: 4px solid #a50034;
+margin: 5px auto; box-shadow: 0px 5px 18px -9px rgba(0, 0, 0, 0.75);}
+.nav-wrap{display: flex; justify-content: center; align-items: center;
+    width: 100%; height: 120px; position: relative;
+     margin: 0 auto;}
+.logo{width: 150px; height: 100px; background-image: url("../../public/images/logo/twins_logoB.png");
+    background-position: center; background-repeat: no-repeat; background-size: cover; 
+    z-index: 1006;}
+.nav-wrap li{height: 120px; display: inline-block; align-content: center;
+margin: 0 20px; font-size: 20px; }
+.nav-wrap a{ padding:34px 0;}
+.nav-wrap a:hover{color: #a50034; border-bottom: 4px solid #a50034;}
+
+.leftNav{width: 50%; float: left;  text-align: right;
+    padding-right: 100px;}
+
+.rightNav{width: 50%; float: right; align-items: left;
+    padding-left: 100px;}
+
+    .rightNav li{ margin-right: 30px ;}
+
+.nav_bar{
+    position: absolute; background-color:#a50034; height: 2px; bottom: 0; left: 0;
+    width: 100%;
+}
+
